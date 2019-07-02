@@ -1,6 +1,23 @@
+<<<<<<< HEAD
  I am Arko
  git clone
  git init
  git status
  git branch
  git config
+=======
+ Git commands-
+ \1.git add
+ 2.git config --global --add remote.proxy.origin "proxyname:port"
+ git branch -a
+ git commit -m "cmmnt"
+ git push -u origin (branchname)
+ git add .
+ git branch -d
+ git config user.name 
+ git config user.email
+ git branch branchname
+ git checkout
+ git merge 
+
+>>>>>>> feat2
