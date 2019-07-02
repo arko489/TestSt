@@ -19,5 +19,5 @@
  git branch branchname
  git checkout
  git merge 
-
 >>>>>>> feat2
+new fie content from feat3
